@@ -8,7 +8,7 @@
 
 <b>下载本项目的方法参考（网址差异请忽略）</b><br>
 <img src="https://github.com/killgcd/chromego/blob/master/%E4%B8%8B%E8%BD%BDchromego.jpg?raw=true" alt="下载chromego.jpg">
-<br><a href="http://45.32.39.221/xxjw.7z"><下载点2</a>
+<br><a href="http://45.32.39.221/xxjw.7z">下载点2</a>
 
 
 
