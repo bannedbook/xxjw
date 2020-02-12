@@ -1,6 +1,6 @@
 # XX-Net 禁闻网定制版
 * 基于XX-Net定制，感谢XX-Net
-* 内置appid，点击start.bat,一键启动翻墙
+* 内置appid，点击xx目录下的start.bat,一键启动翻墙
 * 易用的翻墙工具 
 
 <b>推荐：</b><br>
