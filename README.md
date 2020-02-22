@@ -4,7 +4,7 @@
 * 易用的翻墙工具 
 * 已知问题：Google、facebook等登录不了，youtube评论无法加载，有时多刷几次可以成功，有时不行。单纯看新闻没问题。
 
-<b>推荐：</b><br>
+<b>广告：</b><br>
 <a href="https://github.com/killgcd/justmysocks/blob/master/README.md"><img src="https://raw.githubusercontent.com/killgcd/justmysocks/master/images/bwgss.jpg" alt="搬瓦工翻墙 Just My Socks"></a>
 
 <b>下载本项目的方法参考（网址差异请忽略）</b><br>
