@@ -7,8 +7,9 @@
 <b>广告：</b><br>
 <a href="https://github.com/killgcd/justmysocks/blob/master/README.md"><img src="https://raw.githubusercontent.com/killgcd/justmysocks/master/images/bwgss.jpg" alt="搬瓦工翻墙 Just My Socks"></a>
 
-<b>下载本项目的方法参考（网址差异请忽略）、<a href="https://github.com/bannedbook/fanqiang/wiki/XX-Net%E7%BF%BB%E5%A2%99">更多下载点</a></b><br>
-<img src="https://github.com/killgcd/chromego/blob/master/%E4%B8%8B%E8%BD%BDchromego.jpg?raw=true" alt="下载chromego.jpg">
+## [下载本项目](https://github.com/bannedbook/xxjw/releases) 
+  、  <a href="https://github.com/bannedbook/fanqiang/wiki/XX-Net%E7%BF%BB%E5%A2%99">更多下载点</a></b>
+
 
 ## 相关翻墙项目库
 <ul >
