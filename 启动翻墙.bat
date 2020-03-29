@@ -1,2 +1,2 @@
 cd /d %~dp0
-start "" "%~dp0/xx/start.bat"
+start "" "%~dp0/xxjw/start.bat"
